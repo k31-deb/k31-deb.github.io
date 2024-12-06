@@ -1,0 +1,21 @@
+{
+    "name": "K31",
+    "short_name":"TheKranthiApp",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "backgound_color": "#0000",
+    "theme_color":"#0000",
+    "orientation":"portrait-primary",
+    "icons":[
+        {
+            "src":"/Imgs/pic1.png",
+            "type":"image/png",
+            "sizes":"384x384"
+        },
+        {
+            "src":"/Imgs/pic2.png",
+            "type":"image/png",
+            "sizes":"512x512"
+        }
+    ]
+}
