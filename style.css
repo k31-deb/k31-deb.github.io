@@ -213,5 +213,23 @@ section:nth-child(2n + 1) {
     color: black;
 }
 
+.project-flex{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+.project{
+    margin-left: 5px;
+    height: 30vh;
+    width: 30vw;
+    color: lightcoral;
+    border: 2px solid #2857a4;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+
+
 
 
